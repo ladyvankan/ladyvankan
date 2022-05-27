@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" alt="">
   <div id="badges">
-    <a href="www.linkedin.com/in/natashavankan"><img src="https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic"></a>
+    <a href="https://www.linkedin.com/in/natashavankan/"><img src="https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic"></a>
     <a href="https://twitter.com/laladyvankan"><img src="https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic"></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ladyvankan&style=plastic&color=ff69b4" alt="">
@@ -22,7 +22,7 @@ I am a self-taught beginner coder.
 - 👨‍👩‍👧‍👦 Stay-at-home mama to beautiful children.
 - 👩‍💻 Enrolled in Codecademy's Full Stack career track.
 - 📖 I like to read in my free time.
-- 💌 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic)](www.linkedin.com/in/natashavankan) or [![Twitter Badge](https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic)](https://twitter.com/laladyvankan)
+- 💌 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic)](https://www.linkedin.com/in/natashavankan/) or [![Twitter Badge](https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic)](https://twitter.com/laladyvankan)
 
 ---
 
@@ -44,6 +44,14 @@ I am a self-taught beginner coder.
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ladyvankan&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D&background=BE3572&stroke=000000&border=000000&ring=2AAACBAC&dates=0BF7FF&sideNums=FF09BB)](https://git.io/streak-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladyvankan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📓 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 <!--<img src="https://media.giphy.com/media/KE5qyapWk5nT4hi1Cg/giphy.gif" alt="" width="50">-->
