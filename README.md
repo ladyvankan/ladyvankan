@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" alt="">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/natashavankan/"><img src="https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic"></a>
-    <a href="https://twitter.com/laladyvankan"><img src="https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic"></a>
+    <a href="https://www.linkedin.com/in/natashavankan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic"></a>
+    <a href="https://twitter.com/laladyvankan" target="_blank"><img src="https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic"></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ladyvankan&style=plastic&color=ff69b4" alt="">
   <h1>
