@@ -50,6 +50,7 @@ I am a self-taught beginner coder.
 ### 📓 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Start](https://ladyvankan.wordpress.com/2022/06/03/just-start/)
 - [Publishing my first project to GitHub](https://ladyvankan.wordpress.com/2022/05/27/does-this-work/)
 <!-- BLOG-POST-LIST:END -->
 
