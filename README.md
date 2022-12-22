@@ -19,7 +19,7 @@
 
 ### 😍 About Me
 I am a self-taught beginner coder.
-- 👨‍👩‍👧‍👦 Stay-at-home mama to beautiful children.
+- 👨‍👩‍👧‍👦 Work-at-home mama to beautiful children.
 - 👩‍💻 Enrolled in Codecademy's Full Stack career track.
 - 📖 I like to read in my free time.
 - 💌 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-9cf?logo=linkedin&logoColor=ff69b4&style=plastic)](https://www.linkedin.com/in/natashavankan/) or [![Twitter Badge](https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=ff69b4&style=plastic)](https://twitter.com/laladyvankan)
